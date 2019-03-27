@@ -25,4 +25,9 @@ Hadoop 설정이 복잡하고 무겁다
 소스코드 자동 줄바꿈 옵션 설정하기
 Tools -> Global Options -> 탭 : Code -> Soft-wrap R source files
 
+R
+http://itisik.com/221448727927
+
 <h1>마크업 언어 테스트</h1>
+마크다운 사용법
+https://gist.github.com/ihoneymon/652be052a0727ad59601
