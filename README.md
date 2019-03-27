@@ -12,3 +12,8 @@ https://www.rstudio.com/products/rstudio/download/#download
 
 3. working directory(작업공간 생성)
 C:\easy_r
+
+
+데이터 분석 툴 R, SPSS, Hadoop 등 여러가지가 있다.
+SPSS 유료
+Hadoop 설정이 복잡하고 무겁다
