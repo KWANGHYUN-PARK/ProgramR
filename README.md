@@ -20,4 +20,9 @@ Hadoop 설정이 복잡하고 무겁다
 
 4. rstudio 실행파일 -> 우클릭 -> 호환성 -> 설정 변경 : 관리자 권한으로 이 프로그램 실행
 
+화면 구성
+
+소스코드 자동 줄바꿈 옵션 설정하기
+Tools -> Global Options -> 탭 : Code -> Soft-wrap R source files
+
 <h1>마크업 언어 테스트</h1>
